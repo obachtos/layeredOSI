@@ -1,8 +1,3 @@
-########################
-###### layeredOSI ###### 
-########################
-
-
 ###### simulation code ######
 
 The simulation and analysis are composed of three (potentially four) basic steps, which correspond to the three clocks of commands in the 'simulate_models.sh' file:
